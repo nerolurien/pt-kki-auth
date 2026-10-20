@@ -1,0 +1,7 @@
+bin
+auth-server*
+*.exe
+.git
+.vscode
+.idea
+*.log
